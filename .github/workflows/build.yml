@@ -2,7 +2,7 @@ name: Build the content
 on:
   workflow_dispatch:
   push:
-    branches:
+    branches: Right now,
       - main
       - next
 
